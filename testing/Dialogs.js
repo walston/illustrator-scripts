@@ -8,8 +8,8 @@ ver. 0.6.1
 */
 (function() {
 
-	var SCRIPT_TITLE = 'カラーを丸める';
-	var SCRIPT_VERSION = '0.6.1';
+	var SCRIPT_TITLE = 'test';
+	var SCRIPT_VERSION = '0.0.0ß';
 
 	// Settings
 	var settings = {
